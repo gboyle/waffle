@@ -1,0 +1,2 @@
+
+void stdout_example();

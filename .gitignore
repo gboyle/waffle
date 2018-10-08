@@ -30,3 +30,21 @@
 *.exe
 *.out
 *.app
+
+# CMake
+build/
+Testing/
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+CMakeSettings.json
+*.tlog
+*.pdb
+*.idb
+*.shh
+*.ilk
+*.log
+
